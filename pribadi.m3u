@@ -345,6 +345,9 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="SPORTS",Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",BEIN SPORT 1 ARAB
 http://novaiptv.vip:80/mama/mama@2019/1612
 
@@ -374,3 +377,61 @@ http://novaiptv.vip:80/mama/mama@2019/1620
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",BEIN SPORT 10 ARAB
 http://novaiptv.vip:80/mama/mama@2019/1621
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BEIN SPORT 2 ARAB
+http://novaiptv.vip:80/mama/mama@2019/1613
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",CANAL+  SPORT
+http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/265011220
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 6
+http://stream.doball.com:8080/hls/ch6.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 7
+http://stream.doball.com:8080/hls/ch7.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 8
+http://stream.doball.com:8080/hls/ch8.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 9
+http://stream.doball.com:8080/hls/ch9.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 10
+http://stream.doball.com:8080/hls/ch10.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 11
+http://stream.doball.com:8080/hls/ch11.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 12
+http://stream.doball.com:8080/hls/ch12.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 13
+http://stream.doball.com:8080/hls/ch13.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 14
+http://stream.doball.com:8080/hls/ch14.m3u8?feed
+
+#EXTINF:-1 group-title="22/7 BOLA",Doball 15
+http://stream.doball.com:8080/hls/ch15.m3u8?feed
+
