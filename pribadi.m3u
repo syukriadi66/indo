@@ -323,6 +323,9 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="SPORTS",Tennis Channel+ 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="SPORTS",UFC
+http://mfe17.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2%3C/stream_url"
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",BEIN SPORT 1 ARAB
 http://novaiptv.vip:80/mama/mama@2019/1612
 
