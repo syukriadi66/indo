@@ -1,0 +1,127 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur" tvg-logo="" group-title="TV",SP: Fox Sports 1 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur" tvg-logo="" group-title="TV",SP: Fox Sports 2 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/4
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 3 Sur" tvg-logo="" group-title="TV",SP: Fox Sports 3 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/7
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 1 Sur" tvg-logo="" group-title="TV",SP: Espn 1 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/10
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur" tvg-logo="" group-title="TV",SP: Espn 2 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/13
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur" tvg-logo="" group-title="TV",SP: Espn 3 Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn Plus Sur" tvg-logo="" group-title="TV",SP: Espn Plus Sur
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/19
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1" tvg-logo="" group-title="TV",SP: MX: Fox Sports 1
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/24
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 2" tvg-logo="" group-title="TV",SP: MX: Fox Sports 2
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/27
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 3" tvg-logo="" group-title="TV",SP: MX: Fox Sports 3
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/30
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1" tvg-logo="" group-title="TV",SP: MX: Espn 1
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/33
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2" tvg-logo="" group-title="TV",SP: MX: Espn 2
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/36
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 3" tvg-logo="" group-title="TV",SP: MX: Espn 3
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/39
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn+" tvg-logo="" group-title="TV",SP: MX: Espn+
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/42
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Am Sports" tvg-logo="" group-title="TV",SP: ARG: Am Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/56
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports" tvg-logo="" group-title="TV",SP: ARG: Directv Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/57
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports" tvg-logo="" group-title="TV",SP: ARG: TNT Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/58
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports" tvg-logo="" group-title="TV",SP: ARG: TyC Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/60
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports Premium" tvg-logo="" group-title="TV",SP: ARG: Fox Sports Premium
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/63
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: DeporTV SD" tvg-logo="" group-title="TV",SP: ARG: DeporTV SD
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/69
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Bolivia Deportes" tvg-logo="" group-title="TV",SP: BO: Bolivia Deportes
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/70
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 1 SD" tvg-logo="" group-title="TV",SP: BO: Tigo Sports 1 SD
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/71
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 2 SD" tvg-logo="" group-title="TV",SP: BO: Tigo Sports 2 SD
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/73
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 3 SD" tvg-logo="" group-title="TV",SP: BO: Tigo Sports 3 SD
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/75
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF SD" tvg-logo="" group-title="TV",SP: CL: CDF SD
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/79
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF Premium" tvg-logo="" group-title="TV",SP: CL: CDF Premium
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/82
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Basico" tvg-logo="" group-title="TV",SP: CL: CDO Basico
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/85
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Premium" tvg-logo="" group-title="TV",SP: CL: CDO Premium
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/86
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 1" tvg-logo="" group-title="TV",SP: CO: Directv Sports 1
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/91
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2" tvg-logo="" group-title="TV",SP: CO: Directv Sports 2
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/92
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports Plus" tvg-logo="" group-title="TV",SP: CO: Directv Sports Plus
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/93
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports" tvg-logo="" group-title="TV",SP: CO: Win Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/94
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports Plus" tvg-logo="" group-title="TV",SP: CO: Win Sports Plus
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/96
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Claro Sports Latinoamerica" tvg-logo="" group-title="TV",SP: CO: Claro Sports Latinoamerica
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/97
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Claro Sports" tvg-logo="" group-title="TV",SP: CO: Claro Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/99
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Movistar Plus" tvg-logo="" group-title="TV",SP: PE: Movistar Plus
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/116
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Movistar Deportes" tvg-logo="" group-title="TV",SP: PE: Movistar Deportes
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/117
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: VE: Fox Sports 1" tvg-logo="" group-title="TV",SP: VE: Fox Sports 1
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/118
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: VE: Fox Sports 2" tvg-logo="" group-title="TV",SP: VE: Fox Sports 2
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/119
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: VE: Fox Sports 3" tvg-logo="" group-title="TV",SP: VE: Fox Sports 3
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/120
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: PY: Tigo Sports" tvg-logo="" group-title="TV",SP: PY: Tigo Sports
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/121
+
+#EXTINF:-1 tvg-id="" tvg-name="SP: PY: Tigo Sports Plus" tvg-logo="" group-title="TV",SP: PY: Tigo Sports Plus
+http://s3linkgapp.net:25461/Lista-Gratuita-A232133/Descarga-Desde-PlayStore-GnulaTVLite-A544610/122
