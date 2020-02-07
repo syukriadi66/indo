@@ -78,6 +78,36 @@ https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_249
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",THE INDONESIA CHANNEL
 https://livetvhooq.akamaized.net:443/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581077427~exp=9007200835818418~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=8f84396badc189b1c6434d4e1d60224d67346b803368917603ea5d0bb1653149
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Egg Network
+http://210.210.155.66/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", NHK World
+http://210.210.155.66/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",AWESOME
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217960~exp=9007200832958951~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=424cea0b8e13f76179b74233428082443bce01b460bc95b731649ba4da29113b
 
