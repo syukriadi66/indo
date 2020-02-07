@@ -213,6 +213,10 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",AXN
+http://210.210.155.66/h/h141/02.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CINEMAX
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
