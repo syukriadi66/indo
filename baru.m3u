@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",MNC
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+https://linier.akamaized.net:443/live/eds/MNC/sa_hls/hdntl=exp=1582058618~acl=%2f*~data=hdntl~hmac=9c620103da1e86041e32c2438da066def8f8fd7d0b748c919de5aa12e868408f/MNC-avc1_300000=4-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
@@ -15,13 +15,16 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR 2
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=EB5DAF3F0F2103C3A892BE5937167DE35103F89B&profile=pass
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://live.rctiplus.id/rctiplus/gtv_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TRANS 7
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TRANS 7
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TV ONE
@@ -30,11 +33,14 @@ https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TRANS TV
 https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",RTV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",RTV
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",TVRI
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_2499968=6-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",BERITA SATU
+https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w107431205_b384000_sleng.m3u8
@@ -43,9 +49,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w107431205_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1921788338_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://live.rctiplus.id/rctiplus/inews_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",KOMPAS TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",KOMPAS TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",METRO TV
@@ -72,17 +78,47 @@ https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_249
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",THE INDONESIA CHANNEL
 https://livetvhooq.akamaized.net:443/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581077427~exp=9007200835818418~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=8f84396badc189b1c6434d4e1d60224d67346b803368917603ea5d0bb1653149
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",Sony One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
 http://210.210.155.66/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",Sony Gem
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",Sony One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
 http://210.210.155.66/h/h143/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",Egg Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Egg Network
 http://210.210.155.66/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony One
+http://210.210.155.66/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", NHK World
+http://210.210.155.66/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Egg Network
+http://210.210.155.66/h/h22/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA", Channel Newsasia
+http://210.210.155.66/h/h29/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",AWESOME
+https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578217960~exp=9007200832958951~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=424cea0b8e13f76179b74233428082443bce01b460bc95b731649ba4da29113b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",FAIL ARMY
+https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218047~exp=9007200832959038~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=10ee5de799aaf468724bf10bc4d68992603cf0517f473342b896c4db71e09131
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",USEE PHOTO
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",USEE PRIME
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",ID KU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
@@ -102,38 +138,47 @@ https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_2499968=7-m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHINA",SHANGHAI DRAGON TV
 https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="CHINA",XING KONG
+https://anevia115.mncnow.id:443/live/eds/XingKongTV/sa_hls/XingKongTV-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI",MUSLIM TV
 https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI",TV MUHAMMADIYAH
+https://anevia115.mncnow.id:443/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_2499968=9-mp4a_98800_eng=4.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",ASIAN FOOD CHANNEL
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_2499968=6-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",ANIMAL PLANET
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_2499968=16-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",BBC
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",HISTORY
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_2499968=9-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NET GEOGRAPHIC
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NAT GEO WILD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",NAT GEO PEOPLE
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",WAKU WAKU JAPAN
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",OUTDOOR CHANNEL
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KNOWLEDGE",TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
@@ -148,10 +193,10 @@ https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",CARTOON NETWORK
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",DISNEY CHANNEL
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",KIDS TV
 https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_2499968=9-mp4a_98800_eng=5.m3u8
@@ -160,7 +205,7 @@ https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_249
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_2499968=8-mp4a_98800_eng=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",NICKELODEON
-http://203.153.218.28:9981/stream/channelid/648970596
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_2499968=8-mp4a_98800_eng=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",Dangdutz
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -180,6 +225,9 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",MTV LIVE
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
 
@@ -191,6 +239,10 @@ https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",B MUSIC CONCERT
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MUSIC",CHANNEL V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",AXN
 http://210.210.155.66/h/h141/02.m3u8
@@ -204,73 +256,29 @@ https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_en
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",WARNER TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_2499968=16-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Blue Ant ENTERTAIMENT
-http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Diva
-http://210.210.155.35/session/8303708a-0196-11ea-bbc1-c81f66f89318/uq2663/h/h11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",E!
-http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Cinema World
-http://210.210.155.35/session/6ae925c4-0193-11ea-9fc3-c81f66f89318/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",JGO
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",K+
-http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",K DRAMA
-http://210.210.155.35/session/971493a0-0192-11ea-b1fb-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",KIX
-http://210.210.155.35/session/5effb804-04b8-11ea-a100-c81f66f89318/uq2663/h/h07/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",My CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Sony GEM TV
-http://210.210.155.35/session/6f6388de-0197-11ea-8e41-c81f66f89318/uq2663/h/h19/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Sinema Indonesia
-http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",BLOOMBERG
-http://45.126.83.51/session/57eab37e-019e-11ea-b7f6-aa7099a066d0/uq2663/h/h03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CINEMA World
-http://45.126.83.51/session/ae23ef80-019e-11ea-acf6-a445af550c11/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",STYLE TV
-http://45.126.83.51/session/d04dc248-019e-11ea-af6f-b31e94085f6d/uq2663/h/h01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CRIME INVESTIGATION
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX FAMILY MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=827D4321F9CAC5C5190A62ED52CF898B6AB6986F&profile=pass
 
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
+#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=BC3F62962957A545FF2FCFFCDD109A630F050061&profile=pass
+
+#EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=12B8D0AFD0DF1E540112E98517F249D314CC37C4&profile=pass
+
+#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=1C717A0D3F3350CBA4B8519503DABB156C09BFC2&profile=pass
+
+#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673"  tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=25D6186F63BD65A300657BDF78B9532138071EF9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",TVN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
@@ -281,6 +289,9 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CELESTIAL MOVIES
+https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_2499968=7-mp4a_66000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
@@ -290,66 +301,14 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CINEMA WORLD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_2499968=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",IMC HD
-https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",FLIK HD
-https://dl.dropbox.com/s/p4za9boby6fnz25/Flik.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",SINEMA INDONESIA
-http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",MNX HD
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",RAI PRENIUM HD
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",RAI MOVIE HD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",CELESTIAL MOVIES HD
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",THRILL HD
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",TV MONDE HD
-http://210.210.155.35/qwr9ew/s/s24/index.m3u8?TV5-Monde-Asia
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",B4U MOVIES HD
-http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(02)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",MOVIES NOW HD
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_2499968=7-mp4a_98800_eng=5.m3u8
@@ -366,50 +325,29 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",CBC SPORT
 http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",DSPORTS
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",DUBAI RACING
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",STADIUM
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",UFC
+http://mfe17.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2%3C/stream_url"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",UFC NETWORK
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",VSIN
-https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORT",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8?fluxusTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="SPORTS",BEIN SPORTS 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX Sport 1
+https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="SPORTS",BEIN SPORT 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX Sport 2
+https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/02/foxsports1logo.jpg" group-title="SPORTS",FOX SPORT 1
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="SPORTS",FOX SPORT 2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest?cb=20131030210424" group-title="SPORTS",FOX SPORT 3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1072.png" group-title="SPORTS",True Sport 3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sport-tv-guide.live/images/stations/a1073.png" group-title="SPORTS",True Sport 4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX Sport 3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",REAL MADRID TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
@@ -417,877 +355,32 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",RED BULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="beiN Sports 1 " tvg-logo="http://images.noih.tv:25461/images/bein/bein1.png" group-title="SPORT" ,CCTV-5+
-http://111.40.205.78/PLTV/88888888/224/3221225603/index.m3u8
-
-#EXTINF:-1 group-title="SPORT",FIGHT SPORT
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORT",Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORT",QazSport
-http://109.248.236.41:4433/udp/238.1.1.116:1234
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORT",RTSH Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",Setanta Sports 1 (Opt-1)
-http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",Setanta Sports 1 (Opt-2)
-http://92.43.140.204:80/s81/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",Setanta Sports 2
-http://92.43.140.200/s82/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT",Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Six
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN LaLiga UHD ES VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN LaLiga UHD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 10 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 10 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 10 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 10 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 11 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 11 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18766.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 12 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 12 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 1 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 1 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 1 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 1 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 2 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 2 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 2 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 2 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 3 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 3 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 3 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 3 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 4 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 4 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 4 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 4 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 4 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 4 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 5 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 5 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 5 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 5 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 5 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 5 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 6 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 6 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 6 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 6 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 6 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 6 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 7 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 7 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 7 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 7 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 7 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 7 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 8 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 8 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 8 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 8 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 8 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 8 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 9 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 9 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport 9 SD ARB VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sport 9 SD ARB VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 10 HD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 10 HD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 1 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 1 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 FHD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 1 FHD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 1 HD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 1 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 FHD FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 FHD FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 FHD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 FHD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD TH VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 HD TH VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 HD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 2 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 FHD FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 FHD FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 FHD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 FHD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD TH VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 HD TH VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 HD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 3 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 4 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 FHD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 4 FHD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD TH VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 4 HD TH VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD TR VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 4 HD TR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 4 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 5 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 5 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 6 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 6 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 FHD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 7 FHD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 7 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 8 HD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 8 HD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 8 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 8 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 9 HD HEVC VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 9 HD HEVC VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 9 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",BeIN Sports 9 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports News HD VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/beinsportsnewshd.png" group-title="Vip Sports",BeIN Sports News HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTN 1 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BTN 1 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTN 2 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BTN 2 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48582.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTN 3 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BTN 3 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48581.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTN 4 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",BTN 4 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1 HD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 1 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 2 HD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 2 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 3 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 3 HD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports 3 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports EPSN FHD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports EPSN FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports ESPN HD VIP Sports" tvg-logo="" group-title="Vip Sports",BT Sports ESPN HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chelsea FC TV VIP Sports" tvg-logo="" group-title="Vip Sports",Chelsea FC TV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Bay Area HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Bay Area HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN California HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN California HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Chicago HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Chicago HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Northeast HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Northeast HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Northwest HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Northwest HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Philadelfia HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Philadelfia HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CSN Washington HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",CSN Washington HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 FHD DE VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN Bar 1 FHD DE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 1 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN Bar 1 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 FHD DE VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN Bar 2 FHD DE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Bar 2 HD VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN Bar 2 HD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dazn FHD ES VIP SPORTS" tvg-logo="" group-title="Vip Sports",Dazn FHD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.75232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SerieA 1 FHD IT VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN SerieA 1 FHD IT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.21791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SerieA 2 FHD IT VIP SPORTS" tvg-logo="" group-title="Vip Sports",DAZN SerieA 2 FHD IT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.21790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 (Belgium FR) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 1 (Belgium FR) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 (Belgium NL) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 1 (Belgium NL) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 (Poland) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 1 (Poland) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 (Taiwan) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 1 (Taiwan) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 (UK) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 1 (UK) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 (Belgium FR) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 2 (Belgium FR) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 (Belgium NL) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 2 (Belgium NL) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16915.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 (Poland) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 2 (Poland) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 (Taiwan) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 2 (Taiwan) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 (UK) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 2 (UK) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16912.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 (Belgium FR) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 3 (Belgium FR) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 (Belgium NL) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 3 (Belgium NL) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16910.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 (Poland) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 3 (Poland) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16909.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 (Poland) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports 4 (Poland) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports La Liga 24/7 (UK) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports La Liga 24/7 (UK) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16907.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports Prime (Taiwan) VIP Sports" tvg-logo="" group-title="Vip Sports",Eleven Sports Prime (Taiwan) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16906.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",ESPN 1 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",ESPN 1 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",ESPN 2 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",ESPN 2 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U VIP Sports" tvg-logo="" group-title="Vip Sports",ESPN U VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV FHD VIP SPORTS" tvg-logo="" group-title="Vip Sports",F1 TV FHD VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.63121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow EPL 7 HD MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow EPL 7 HD MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow EPL 7 MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow EPL 7 MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow EPL 8 HD MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow EPL 8 HD MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow EPL 8 MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow EPL 8 MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow EPL HD MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow EPL HD MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sport 1 HD MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sport 1 HD MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sport 1 MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sport 1 MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sport 2 HD MY VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sport 2 HD MY VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports 1 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sports 1 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports 1 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sports 1 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports 2 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sports 2 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Flow Sports 2 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",Flow Sports 2 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Cricket 501 AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Cricket 501 AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.62529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer HD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Soccer HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Sports 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Sports 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 501 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 502 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 503 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 504 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 505 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 506 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507 FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports 507 FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Asia 1 HD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Sports Asia 1 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Asia 2 HD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Sports Asia 2 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Asia 3 HD VIP Sports" tvg-logo="" group-title="Vip Sports",Fox Sports Asia 3 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Fox Sports News FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 10 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 10 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16903.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 1 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 1 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16904.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 2 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 2 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 3 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 3 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 4 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 4 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 5 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 5 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow 6 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow 6 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow Sport 1 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow Sport 1 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow Sport 2 HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow Sport 2 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IFollow Sport Premiere League HD VIP Sports" tvg-logo="" group-title="Vip Sports",IFollow Sport Premiere League HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSA Sport 2 FHD ARB" tvg-logo="" group-title="Vip Sports",KSA Sport 2 FHD ARB
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.40189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 3 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 3 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 4 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 4 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 5 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 5 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 6 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 6 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Le Sports 7 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Le Sports 7 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events AFL 24/7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events AFL 24/7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Boxnation HD VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Boxnation HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 10 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 10 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 11 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 11 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 12 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 12 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 1 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 1 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 2 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 2 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 3 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 3 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 4 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 4 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 5 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 5 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 6 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 6 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 7 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 7 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 8 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 8 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events Football 9 FHD Premier League VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events Football 9 FHD Premier League VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 1 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 1 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 10 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 10 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 10 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 10 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 11 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 11 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 11 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 11 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 12 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 12 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 12 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 12 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 13 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 13 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 13 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 13 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 14 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 14 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 14 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 14 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 15 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 15 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 15 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 15 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 16 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 16 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 16 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 16 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 17 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 17 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 17 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 17 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 18 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 18 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 18 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 18 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 19 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 19 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 19 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 19 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 2 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 2 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 20 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 20 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 20 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 20 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 3 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 3 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 4 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 4 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 5 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 5 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 6 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 6 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 7 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 7 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 8 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 8 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 9 (2) VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 9 (2) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MLB Network VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MLB Network VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events MotoGP VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events MotoGP VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 10 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 10 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 11 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 11 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 12 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 12 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 13 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 13 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 14 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 14 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 15 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 15 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBA TV VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBA TV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NBC Golf VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NBC Golf VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 10 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 10 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 11 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 11 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 12 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 12 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 13 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 13 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 14 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 14 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 15 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 15 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 16 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 16 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL Network HD VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL Network HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL Now VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL Now VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NFL Red Zone VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NFL Red Zone VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 10 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 10 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 11 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 11 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 12 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 12 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 13 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 13 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 14 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 14 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 15 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 15 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16924.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NHL Network HD VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NHL Network HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16923.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL 24/7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL 24/7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events NRL Live 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events NRL Live 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PDC Darts VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PDC Darts VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 10 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 10 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 4 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 5 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 6 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 6 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 8 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 8 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events PPV 9 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events PPV 9 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events RedBull TV VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events RedBull TV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events The Golf Channel HD VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events The Golf Channel HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events The Golf Channel VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events The Golf Channel VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.16922.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events UFC 1 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events UFC 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events UFC 24/7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events UFC 24/7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events UFC 2 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events UFC 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events UFC 3 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events UFC 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Events WWE Network 24/7 VIP Sports" tvg-logo="" group-title="Vip Sports",Live Events WWE Network 24/7 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Liverpool FC TV VIP Sports" tvg-logo="" group-title="Vip Sports",Liverpool FC TV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 1 FHD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones1.png" group-title="Vip Sports",Movistar Liga De Campeones 1 FHD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18820.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 1 HD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones1.png" group-title="Vip Sports",Movistar Liga De Campeones 1 HD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18819.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 2 FHD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones2.png" group-title="Vip Sports",Movistar Liga De Campeones 2 FHD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18818.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 2 HD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones2.png" group-title="Vip Sports",Movistar Liga De Campeones 2 HD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18817.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 3 HD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones3.png" group-title="Vip Sports",Movistar Liga De Campeones 3 HD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga De Campeones 4 HD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarligadecampeones4.png" group-title="Vip Sports",Movistar Liga De Campeones 4 HD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18815.m3u8
-#EXTINF:-1 tvg-id="Movistar Partidazo ES" tvg-name="Movistar Partizado UHD ES VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/movistarpartidazo.png" group-title="Vip Sports",Movistar Partizado UHD ES VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV VIP Sports" tvg-logo="http://static.hqiptv.net/l1/multisports.png" group-title="Vip Sports",MUTV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 3 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 3 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 4 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 4 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 5 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 5 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 6 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 6 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold 7 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold 7 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Gold Goal Rush FHD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Gold Goal Rush FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD VIP Sports" tvg-logo="" group-title="Vip Sports",NBCSN HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Bay Area VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Boston VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Boston VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports California VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports California VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17027.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Chicago VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17026.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network HD VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Network HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17025.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Northwest VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Northwest VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia Plus VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Philadelphia Plus VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17022.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia VIP Sports" tvg-logo="" group-title="Vip Sports",NBC Sports Philadelphia VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington VIP Sports" tvg-logo="http://static.hqiptv.net/l1/nbcsportswashingtonplus.png" group-title="Vip Sports",NBC Sports Washington VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Newcastle FC TV VIP Sports" tvg-logo="" group-title="Vip Sports",Newcastle FC TV VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 1 HD GR VIP SPORTS" tvg-logo="" group-title="Vip Sports",NOVA SPORTS 1 HD GR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.23146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 2 HD GR VIP SPORTS" tvg-logo="" group-title="Vip Sports",NOVA SPORTS 2 HD GR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.23147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 3 FHD PL VIP SPORTS" tvg-logo="" group-title="Vip Sports",Polsat Sport Premium PPV 3 FHD PL VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.45047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 4 FHD PL VIP SPORTS" tvg-logo="" group-title="Vip Sports",Polsat Sport Premium PPV 4 FHD PL VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.45046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 5 FHD PL VIP SPORTS" tvg-logo="" group-title="Vip Sports",Polsat Sport Premium PPV 5 FHD PL VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.45045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport Premium PPV 6 FHD PL VIP SPORTS" tvg-logo="" group-title="Vip Sports",Polsat Sport Premium PPV 6 FHD PL VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.45044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sport FHD SK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Premier Sport FHD SK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Racing.com FHD AU VIP SPORTS" tvg-logo="" group-title="Vip Sports",Racing.com FHD AU VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid FC TV (UK) VIP Sports" tvg-logo="" group-title="Vip Sports",Real Madrid FC TV (UK) VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 HD Live FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",RMC Sport 10 HD Live FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 HD Live FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",RMC Sport 11 HD Live FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 HD FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",RMC Sport 5 HD FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport UHD  FR VIP SPORTS" tvg-logo="" group-title="Vip Sports",RMC Sport UHD  FR VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL UHD DE VIP SPORTS" tvg-logo="" group-title="Vip Sports",RTL UHD DE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.19548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 1 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 1 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 1 HD (BackUP) Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 1 HD (BackUP) Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 1 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 1 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 2 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 2 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 2 HD (BackUP) Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 2 HD (BackUP) Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 2 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 2 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 3 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 3 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 3 HD (BackUP) Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 3 HD (BackUP) Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 3 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 3 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 4 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 4 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 4 HD (BackUP) Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 4 HD (BackUP) Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 4 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 4 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 5 Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 5 Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 5 HD (BackUP) Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 5 HD (BackUP) Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports 5 HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports 5 HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSH Sports EPL HD Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",RUSH Sports EPL HD Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 1 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 1 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 2 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 2 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 3 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 3 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 4 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 4 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 5 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 5 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet 6 EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet 6 EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport HD EPL VIP Sports" tvg-logo="" group-title="Vip Sports",Skynet Sport HD EPL VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 1 AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 FHD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 1 FHD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 1 HD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 2 AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 2 AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 2 FHD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 2 FHD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 2 HD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 2 HD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 3 AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 3 AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 3 FHD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 3 FHD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 3 HD AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 3 HD AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 4 AT VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sport Austria 4 AT VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Action FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Arena FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Cricket FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports F1 FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Football FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Golf FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event FHD UK VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/skysportsmaineventhd.png" group-title="Vip Sports",Sky Sports Main Event FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League FHD UK VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/skysportspremierleaguehd.png" group-title="Vip Sports",Sky Sports Premier League FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing FHD UK VIP SPORTS" tvg-logo="" group-title="Vip Sports",Sky Sports Racing FHD UK VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.66869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360 HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet 360 HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Central HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet Central HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet East HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet One HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet Ontario HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Pacific HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet Pacific HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet West HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sportsnet World HD VIP Sports" tvg-logo="" group-title="Vip Sports",Sportsnet World HD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium 1 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",Stadium 1 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium 2 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",Stadium 2 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium 3 HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",Stadium 3 HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stadium HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",Stadium HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Cricket FHD IN VIP SPORTS" tvg-logo="" group-title="Vip Sports",Star Cricket FHD IN VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.62530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCN Philadelfia HD US VIP SPORTS" tvg-logo="" group-title="Vip Sports",TCN Philadelfia HD US VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.48586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Basketball 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Basketball 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Basketball 3 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Basketball 3 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 1 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 1 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 2 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 2 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.18665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 3 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 3 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.29505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 4 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 4 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.29506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 5 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 5 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.29507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 6 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 6 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.29508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telekom Eishockey 7 FHD VIP Sports" tvg-logo="" group-title="Vip Sports",Telekom Eishockey 7 FHD VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.29509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN FHD 1 VIP Sports" tvg-logo="" group-title="Vip Sports",TSN FHD 1 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN FHD 2 VIP Sports" tvg-logo="" group-title="Vip Sports",TSN FHD 2 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN FHD 3 VIP Sports" tvg-logo="" group-title="Vip Sports",TSN FHD 3 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN FHD 4 VIP Sports" tvg-logo="" group-title="Vip Sports",TSN FHD 4 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TSN FHD 5 VIP Sports" tvg-logo="" group-title="Vip Sports",TSN FHD 5 VIP Sports
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.17177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVJ Sports Network Carib VIP SPORTS" tvg-logo="" group-title="Vip Sports",TVJ Sports Network Carib VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.73653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Play Sports SE VIP SPORTS" tvg-logo="" group-title="Vip Sports",TV Play Sports SE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.40190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIASAT MOTOR HD SE VIP SPORTS" tvg-logo="" group-title="Vip Sports",VIASAT MOTOR HD SE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.23149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Premium FHD SE VIP SPORTS" tvg-logo="http://static.hqiptv.net/l1/viasatsportpremiumhd.png" group-title="Vip Sports",Viasat Sport Premium FHD SE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.23148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViaSport+ Plus FHD SE VIP SPORTS" tvg-logo="" group-title="Vip Sports",ViaSport+ Plus FHD SE VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.40191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YUPP ICC World CUP 1 FHD IN VIP SPORTS" tvg-logo="" group-title="Vip Sports",YUPP ICC World CUP 1 FHD IN VIP SPORTS
-http://api.hqiptv.xyz/?91e9709ce67a/live/0.62532.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BT SPORT 1 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",BT SPORT 2 (Extra Server)
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="22/7 EPL",Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
