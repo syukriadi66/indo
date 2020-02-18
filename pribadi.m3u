@@ -6,14 +6,14 @@ https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="INDONESIA",ANTV
-https://anevia114.mncnow.id:443/live/eds/ANTV/sa_hls/ANTV.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="INDONESIA",SCTV
-https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="INDONESIA",INDOSIAR
-https://anevia115.mncnow.id:443/live/eds/Indosiar/sa_hls/Indosiar.m3u8?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="INDONESIA",INDOSIAR
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg"  group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
