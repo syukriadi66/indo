@@ -118,6 +118,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Fashion", Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS", ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS", ANIPLUS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
 
@@ -132,6 +135,21 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Cartoon Network HD
 http://188.35.9.11:21151/udp/185f
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",DISCO KIDS
+http://proxyts.ec.cx:8082/hls1/discoverykids.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Disney CHANNEL
+http://proxyts.ec.cx:8082/hls1/disney.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",DISNEY JR
+http://proxyts.ec.cx:8082/hls1/disneyjunior.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",DISNEY XD
+http://proxyts.ec.cx:8082/hls1/disneyxd.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",NICK
+http://proxyts.ec.cx:8082/hls1/nick.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
@@ -196,12 +214,24 @@ http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", THE INDONESIA CHANNEL
 https://livetvhooq.akamaized.net:443/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581077427~exp=9007200835818418~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=8f84396badc189b1c6434d4e1d60224d67346b803368917603ea5d0bb1653149
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", FOX MOVIES PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES", FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",Fox Premium
+http://proxyts.ec.cx:8082/hls1/foxpremium1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO
+http://proxyts.ec.cx:8082/hls1/hbo.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO 2
+http://proxyts.ec.cx:8082/hls1/hbo2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="MOVIES",HBO FAMILY
+http://proxyts.ec.cx:8082/hls1/hbofamily.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title=MOVIES", Celestial Clasic Movie
 http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
@@ -272,8 +302,17 @@ http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", DUBAI RACING
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 1 BRASIL
+http://proxyts.ec.cx:8082/hls1/sportv1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",SPORT TV 2 BRASIL
+http://proxyts.ec.cx:8082/hls1/sportv2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX SPORT
+http://proxyts.ec.cx:8082/hls1/foxsports1.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS",FOX SPORT 2
+http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SPORTS", EUROSPORT 1
 http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
