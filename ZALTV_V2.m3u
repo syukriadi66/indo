@@ -159,6 +159,9 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",ANIPLUS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",ANIPLUS HD
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",BABY FIRST
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
@@ -344,6 +347,9 @@ http://proxyts.ec.cx:8082/hls1/sportv1.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",SPORT TV 2 BRASIL
 http://proxyts.ec.cx:8082/hls1/sportv2.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",FIGHT SPORT
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="GENERATOR",FOX SPORT
 http://proxyts.ec.cx:8082/hls1/foxsports1.m3u8?wmsAuthSign=
