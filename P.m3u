@@ -93,6 +93,24 @@ https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 1
+http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 2
+http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 3
+http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 4
+http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 5
+http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 6
+http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",MOLA SPORT
 https://cdn-mxs-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=5EY8VJOHII4WH365ZMLCRR1FVDYUD4F3&chname=Mola_Sports_Free_Trial-
 
@@ -128,6 +146,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KNOWLEDGE", NAT GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KNOWLEDGE",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KNOWLEDGE", NAT GEO WILD
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
