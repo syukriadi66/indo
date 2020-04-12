@@ -231,20 +231,16 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC", PRAMBORS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace tropical 320
-https://d2ktlibtvvj8vp.cloudfront.net/Trace tropical/1/prog_index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace africa 320
-https://d2ktlibtvvj8vp.cloudfront.net/Trace africa/1/prog_index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace toca 320
-https://d2ktlibtvvj8vp.cloudfront.net/Trace toca/1/prog_index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace naija 320
-https://d2ktlibtvvj8vp.cloudfront.net/Trace naija/1/prog_index.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace kitoko 320
-https://d2ktlibtvvj8vp.cloudfront.net/Trace kitoko/1/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="South Africa" group-title="MUSIC" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/1/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="South Africa" group-title="MUSIC" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="South Africa" group-title="MUSIC" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/1/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="South Africa" group-title="MUSIC" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="South Africa" group-title="MUSIC" tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png",Trace kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",AXN
 http://210.210.155.66/h/h141/02.m3u8
