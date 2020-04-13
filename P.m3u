@@ -108,7 +108,7 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",NBA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",NBA HD
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",REAL MADRID TV
@@ -344,6 +344,12 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",MTV ASIA
+https://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",MTV LIVE
+https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-360/playlist.m3u8
