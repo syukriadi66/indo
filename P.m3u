@@ -90,10 +90,10 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",KOMPAS TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BEIN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",BEIN 1
 https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BEIN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",BEIN 2
 https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FOX SPORT
