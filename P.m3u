@@ -13,7 +13,7 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",ANTV
-https://t5-id-1.nim.mivo.tv:443/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_192p/chunks.m3u8?nimblesessionid=159573583&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIwIDg6MTI6MzggUE0maGFzaF92YWx1ZT12bkNKZE9lMW1HTGwyak55bnB2SjBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTYwODg4MTU3fDE4Mi4xLjIwLjI3
+https://cdnjt21.useetv.com:443/tvod/mp4/antv_3/1586658600/1586669400/chunklist.m3u8?stime=20200413210000&etime=20200413220000&encoded=0a2cbf0d77e992a5e2cfa
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
