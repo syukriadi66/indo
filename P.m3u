@@ -90,6 +90,12 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",KOMPAS TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BEIN 1
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BEIN 2
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FOX SPORT
 https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 
@@ -101,6 +107,9 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",NBA HD
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -114,29 +123,41 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",STADIUM
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 1
-http://160.119.77.50/iptv/sd-skynetsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 1
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 2
-http://160.119.77.50/iptv/sd-skynetsports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 2
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 3
-http://160.119.77.50/iptv/sd-skynetsports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 3
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 4
-http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 4
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 5
-http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 5
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",Skynet Sport 6
-http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",SKYNET 6
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",TRUE PREMIER LEAGUE 1
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",TRUE PREMIER LEAGUE 2
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",TRUE PREMIER LEAGUE 3
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",MOLA SPORT FREE
 https://cdn-mxs-01.akamaized.net:443/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=5EY8VJOHII4WH365ZMLCRR1FVDYUD4F3&chname=Mola_Sports_Free_Trial-
@@ -246,11 +267,17 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",DISNEY XD
+https://cdn-laos.workpoint.news/hd-disneyxd_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",NICK JR.
+https://cdn-laos.workpoint.news/sd-nickjr_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",NICKELODEON ASIA
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
@@ -315,9 +342,6 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",KLIPKAR
-https://d3pvma9xb2775h.cloudfront.net:443/live/omropfryslan/stream01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
@@ -341,6 +365,12 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/1/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="MUSIC",Trace kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/1/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="MOVIES",AXN
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="MOVIES",CELESTIAL CLASSIC MOVIES
+https://cdn-laos.workpoint.news/sd-celestial_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=46D756970263BA3473B404CE3F77AC26993081D0&profile=pass
@@ -375,11 +405,20 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",K DRAMA
 https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1578218095~exp=9007200832959086~acl=/8b4f753fdcc94067bfcd243350f36999/*/profile_2/chunklist.m3u8*~hmac=f8592d4c498e05f0594606b638e52a903e3862502482e6aa350511ad78020bf8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",RIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="MOVIES",STAR CHINESE LEGEND
+https://cdn-laos.workpoint.news/sd-starchineselegend_480/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",THE INDONESIA CHANNEL
 https://livetvhooq.akamaized.net:443/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1581077427~exp=9007200835818418~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=8f84396badc189b1c6434d4e1d60224d67346b803368917603ea5d0bb1653149
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",RIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="MOVIES",THRILL
+https://cdn-laos.workpoint.news/sd-thrill_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="MOVIES",WARNER TV
+https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="LIVE MOVIES",ZEE BIOSKOP
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
