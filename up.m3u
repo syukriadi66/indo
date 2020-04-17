@@ -278,10 +278,10 @@ https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KNOWLEDGE",TLC
-http://78.110.169.226:8000/play/a05x
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=92D7F88CF74C72501B6AFC9FCF90DF439783701B&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="KIDS",ANIPLUS
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(386e35b2-14f8-4368-92d7-010d78deaf75)/manifest.mpd
