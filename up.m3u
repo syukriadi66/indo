@@ -1,15 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",RCTI 2
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",MNC
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",MNC 2
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",ANTV
@@ -28,9 +22,6 @@ http://203.153.218.28:9981/stream/channelid/261435212?ticket=516DF00545EEF4F6A83
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",GTV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",GTV 2
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="INDONESIA",TRANS 7
@@ -125,6 +116,9 @@ https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="SPORTS",NBA HD
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
@@ -490,4 +484,147 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png"  group-title="VOD MOVIES",PREDESTINATION
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Coldwater (MI)
+http://66.231.56.22:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Fairfield (MT) (Ski Slopes)
+http://76.75.8.116:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Herndon (VA) (Midway Home Service)
+http://71.41.73.146:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Martin (TN) (Elam Center)
+http://208.87.72.176:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",New York City (NY) (Times Square 1)
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",New York City (NY) (Times Square 2)
+https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Panama City (FL) (Schooner's Bar Cam)
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Panama City (FL) (Schooner's Sun Cam)
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Richmond (VA) (Science Museum of Virginia)
+http://184.80.5.148:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",San Diego (CA) (Panda 1)
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",San Diego (CA) (Panda 2)
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",San Diego (CA) (Polar Bear)
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Sandusky (OH) (Cedar Point Park 1)
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Sandusky (OH) (Cedar Point Park 2)
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Wyoming (Devils Tower)
+http://72.36.32.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",The Blue Mountains (Craigleith Ski Club)
+http://72.143.50.74:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Toronto (Niagara Falls 1)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",London (Abbey Road)
+https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Bremen (Gemeinde Rednitzhembach Rathausplatz)
+http://217.91.208.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Velbert (Nordrhein-Westfalen)
+http://217.5.197.4:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Oberosterreich (Braunau am Inn)
+http://92.39.160.45:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Rauris (Rauriser Marktplatz)
+http://195.70.107.151:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Jerzens (Tirol Airport)
+http://83.218.163.132:8081/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Basel-Stadt (Neubau Biozentrum)
+http://131.152.126.150:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Finse (Hotel Finse 1222)
+https://stream1.vossaskyen.no/bt/FinseStasjon.stream/chunklist_w254227656.m3u8?custom-mdt=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Pieksamaki (Pieksanjarvi Lake)
+http://79.141.146.78:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Maastricht (Amrâth Hotel DuCasque)
+https://58fe270971ed0.streamlock.net/live/maastricht.stream/chunklist_w436280477.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Biarritz (Esplanade du Rocher de la Vierge)
+https://5c8a7c996322e.streamlock.net/live/AquariumBiarritz-RocherdelaVierge-1080p/chunklist_w1767223388.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Florence (Ponte Vecchio)
+https://cdn-001.whatsupcams.com/hls/it_firenze1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Rome (Piazza Navona)
+https://cdn-002.whatsupcams.com/hls/it_roma02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Rome (St. Peter's Basilica)
+http://93.146.249.144:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Venice (Ponte di Rialto)
+https://cdn-001.whatsupcams.com/hls/it_venezia01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Barbate (Playa del Carmen)
+https://cdn-002.whatsupcams.com/hls/es_barbate01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Lloret de Mar (Beach Cam)
+https://cdn-003.whatsupcams.com/hls/es_lmar1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Potes (Picos de Europa)
+https://5811bd721519c.streamlock.net:1936/live/livecam023.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Roses (La Perola Beach)
+https://cdn-003.whatsupcams.com/hls/es_roses01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Roses (Port)
+https://cdn-002.whatsupcams.com/hls/es_roses02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Salou (Espigó del Moll)
+http://195.76.183.92:8888/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Salou (Passeig Jaume I)
+http://webcam.salou.cat:8889/axis-cgi/mjpg/video.cgi?resolution=380x290&dummy=1452859544402
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Foz do Iguaçu (Friendship Bridge)
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Rio de Janeiro (Copacabana Beach)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Ponta Negra (Praia Azul Mar Hotel)
+https://cdn-001.whatsupcams.com/hls/br_natal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Baska (Moravskoslezsky Kraj)
+http://217.197.149.7:88/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Łeba (West Beach)
+https://streaming.airmax.pl/atlantiskspj21/tracks-v1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Ryazan Oblast (Vyshensky Monastery)
+http://212.26.225.115:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Mykonos (Old Port)
+https://cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Chengdu (Panda Reserve)
+http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Psiphon-logo-512.png" group-title="CCTV CHANNELS",Shanghai (Skyline)
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
 
