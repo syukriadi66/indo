@@ -31,7 +31,7 @@ http://id6.indostreamingtv.com/live/rcti/index.m3u8
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",ANTV
-http://rr2.dens.tv:80/s/s07/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=QDRPJIL23VPBQH5IHQ49CZBJZESTACZ7&chname=antv
+http://210.210.155.35:80/session/98d4827e-8665-11ea-bd41-b82a72d63267/qwr9ew/s/s07/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CEWV2O3TXPBW250L47BI5DB09E6SX4IB&chname=antv
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
