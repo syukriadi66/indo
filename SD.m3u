@@ -75,40 +75,40 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",KOMPAS TV
 https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", AREK TV SURABAYA
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNgoMJqLlFJEmdYfm_uU102b0cu6APiILrrLXzc9eih5wLeuWk" group-title="RAMADHAN", AL-BAHJAH TV 
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", AL-BAHJAH TV 
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", NABAWI TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAMADHAN", INSAN TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://net-indo.com/wp-content/uploads/2017/09/radar-tv-tasikmalaya.png" group-title="RAMADHAN", RADAR TV TASIKMALAYA
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", RADAR TV TASIKMALAYA
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", EL JOHN TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", EL JOHN TV
 http://stream1.ninmedia.tv:1935/eljohntv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", RIAU TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", LAPAK MUSIK TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", LAPAK MUSIK TV
 http://stream2.ninmedia.tv:1935/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/R06h5drQ/L11.png" group-title="RAMADHAN", POMBO TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", POMBO TV
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAMADHAN", RODJA TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNgoMJqLlFJEmdYfm_uU102b0cu6APiILrrLXzc9eih5wLeuWk" group-title="RAMADHAN", TAWAF TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", TAWAF TV
 http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RAMADHAN", TAHFIDZ TV
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN", TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",ANIPLUS
