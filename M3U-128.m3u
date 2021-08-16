@@ -184,6 +184,23 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="SPORTS", FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", BTSPORT 1
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", BTSPORT 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", BTSPORT 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", RTM Sport
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", RAISPORT+
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", LALIGA
+http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", DAZN 1
+http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", CANAL+
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2014/11/54785c051f4c7__838x390.jpg" group-title="SPORTS", AR | TyC SPORTS PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_13.m3u8
 
@@ -460,7 +477,7 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Knowledge",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", ESPN 2
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 #EXTINF:-1 group-title="BEIN",Beinsport 1 Xtra (English)
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
@@ -470,25 +487,10 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title=" SPORTS RUSSIA ",MATCH4
 https://95-213-224-179.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",RTM Sport
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",RAISPORT+
-http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",LALIGA
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",DAZN 1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",CANAL+
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", ESPN+
 http://134.19.182.131:8080/edg2_2.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN US
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/DG_deck_bg.jpg" group-title="SPORTS", ESPN US
 http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" , Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
