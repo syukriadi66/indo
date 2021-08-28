@@ -188,11 +188,11 @@ http://rr2.dens.tv/s/s34/index2.m3u8
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/26
 #EXTINF:-1 group-title="MOVIES",  tvg-logo="http://iptv.lancartech.co.id:8080/images/305c809b588b10b192a21741e7df34e7.png" , HITS Movies AXC-myid
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/25
-#EXTINF:-1 group-title="MOVIES",  ,CELESTIAL MOVIES
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",  ,CCM
+#EXTINF:-1 group-title="MOVIES" ,CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="MOVIES" ,CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",  ,tvN
+#EXTINF:-1 group-title="MOVIES"  ,tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-id="tvnmovies.id" tvg-name="tvN Movies AXC" tvg-logo="https://images.useetv.com/logo_tvnmovies_big.png" ,tvN Movies 
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
