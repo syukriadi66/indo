@@ -233,6 +233,12 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Aniplus
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" ,BOOMERANG HD
+https://raw.githubusercontent.com/syukriadi66/iptv-1/master/boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" ,CARTOON NETWORK HD
+https://raw.githubusercontent.com/syukriadi66/iptv-1/master/cartoon_network.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" ,NICKELODEON HD
+https://raw.githubusercontent.com/syukriadi66/iptv-1/master/nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Egg Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , My Kids
@@ -279,6 +285,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ESPN 2
 http://38.131.11.34:1080/play/a02l
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ESPN 2 Brasil
+https://raw.githubusercontent.com/syukriadi66/iptv-1/master/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport Plus
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport
