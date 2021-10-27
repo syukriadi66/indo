@@ -1,516 +1,465 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,INDOSIAR
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" ,INDOSIAR
+https://visionplus-stream.visionplus.id:443/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , INDOSIAR 2
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,MNC TV
-https://akamai.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,ANTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MNC TV
+https://visionplus-stream.visionplus.id:443/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MNC TV 2
+http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ANTV
+https://visionplus-stream.visionplus.id:443/live/eds/ANTV-radeon/sa_hls/ANTV-radeon-avc1_499968=4-mp4a_98800_eng=6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ANTV 2
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,SCTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,RCTI
-https://akamai.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,METROTV
-http://210.210.155.35:80/x6bnqe/h/h12/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,GTV
-https://akamai.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TRANS 7
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SCTV 2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , RCTI
+https://visionplus-stream.visionplus.id:443/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , METROTV
+https://visionplus-stream.visionplus.id:443/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , METROTV 2
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , GTV
+https://visionplus-stream.visionplus.id:443/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TRANS 7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TV ONE
-https://akamai.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV ONE
+https://visionplus-stream.visionplus.id:443/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon-avc1_499968=4-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV ONE 2
+http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TRANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e0268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,INEWS
-https://akamai.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,NETTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , INEWS
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_499968=4-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" ,INEWS 2
+http://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NET.
+https://visionplus-stream.visionplus.id:443/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_499968=5-mp4a_66000_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NET. 2
 http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,RTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , RTV
 http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TVRI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,KOMPASTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , KOMPASTV
 http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TVRI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVRI
 http://210.210.155.35:80/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,DAAITV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , DAAITV
 http://210.210.155.35:80/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,ELSHINTATV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ELSHINTATV
 http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,BERITASATU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,TVRISPORT
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVRISPORT
 http://210.210.155.35:80/qwr9ew/s/s107/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,QURANTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , QURANTV
 http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,SUNAHTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SUNAHTV
 http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Indonesia" ,RODJATV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , RODJATV
 http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,AEC频道
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , AEC频道
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro AEC
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro AOD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro AOD
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,ASTro港剧台
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ASTro港剧台
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" , 天映电影50
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 天映电影50
 http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro IQIYI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro IQIYI
 http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,ANIMAL PLANET
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Arena
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,AwaniHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , AwaniHD
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Awani
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Bernama
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Bernama TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Boo恐怖片HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Boo恐怖片HD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,BooHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BooHD
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,CeriaHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CeriaHD
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Citra
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,CitraHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CitraHD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Drama Sangat
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,HBO HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,HelloHD
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,KBS WORLD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,KBS WolrdHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , KBS WolrdHD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Naura HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,NauraHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NauraHD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Oasis
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,OasisHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , OasisHD
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Oh!K hd
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Oh!K hd
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Oh!kHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Oh!kHD
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Prima
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,PrimaHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , PrimaHD
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" , 全佳HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 全佳HD
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro 全佳
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Ria
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Ria
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,RTM Sports
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , RTM Sports
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Sukan
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Sukan
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,NTV 7
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,NTV7HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NTV7HD
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Sony HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Sony HD
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,星HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 星HD
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro 双星
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro 双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV1HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV1HD
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV2HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV2HD
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,8TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,八度空间HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 八度空间HD
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV8HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV8HD
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV9HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV9HD
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,星河频道
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , 星河频道
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Ria
-http://198.16.106.61:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Prima
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Oasis
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Citra
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Naura HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Xiao Tai Yang HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Xiao Tai Yang HD
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Shuang Xing 双星台
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Shuang Xing 双星台
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Quan Jia 全佳
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Quan Jia 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Prima CH105
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Prima CH105
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Oasis CH106
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Oasis CH106
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Citra CH108
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Citra CH108
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Naura HD CH109
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Naura HD CH109
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Ceria
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Suria CH110
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Suria CH110
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro BOO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Xuang Xing
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Xuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Astro Xiao Tai Yang
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Astro Xiao Tai Yang
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Bernama TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,Drama Sangat
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Malaysia" ,TV IKLIM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV IKLIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,K+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,ONE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ONE
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,GEM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,TVN ASIA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SINEMA INDO
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVN ASIA
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,TVN MOVIES
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVN MOVIES
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,CELESTIAL MOVIES
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CELESTIAL MOVIES
 http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,CINEMA WOLRD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CINEMA WOLRD
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,AXN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , AXN
 http://210.210.155.35:80/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,KIX
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , KIX
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,HITS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , HITS
 http://210.210.155.35:80/dr9445/h/h37/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,HBO Malaysia
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,KBS WORLD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,BAM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BAM
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,BAE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BAE
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,MY CN
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MY CN
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,MY CE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MY CE
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,ZEEBIOSKOP
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ZEEBIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Movies" ,THRILL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , THRILL
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Animax
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Animax
 http://210.210.155.35:80/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Aniplus
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Aniplus
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Baby TV
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Egg Network
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Egg Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,My Kids
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , My Kids
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Boomerang
-http://198.16.106.61:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Disney Junior
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/DISNEYJUNIOR-audio_129224_spa=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Disney Channel
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Disney XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,Spacetoon
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Kids" ,TV9
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Animal Planet
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Discovery Science
-https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,History
-http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,NATIONAL GEOGRAPHIC HD
-http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Nat Geo Wild HD
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd?checkedby
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Nat Geo People HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Nat Geo Wild HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Nat Geo People HD
 http://58.65.171.202:8000/play/10503/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Fail Army
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Nat Geo 
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Fail Army
 https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,People are awesome
-https://jukin-peopleareawesome-1.vizio.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Inwild TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Inwild TV
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Love Nature HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Love Nature SD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Love Nature SD
 http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Smithsonian Channel HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Smithsonian Channel HD
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Pengetahuan" ,Smithsonian Channel SD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Smithsonian Channel SD
 https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,FIGHTSPORT
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , FIGHTSPORT
 http://210.210.155.35:80/x6bnqe/h/h05/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,MOTORVISIONTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,GOLF
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , GOLF
 http://210.210.155.35:80/dr9445/h/h10/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,MNC SPORT
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , MNC SPORT
 http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,TVRI SPORT
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,STADIUM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,F1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , F1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BTSPORT 1
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BTSPORT 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ESPN 2 RACE LIVE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ESPN 2
 http://38.131.11.34:1080/play/a02l
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ESPN
-http://rec2.distv.net:80/live/damaris/123456/142.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ESPN 2
-http://rec2.distv.net:80/live/damaris/123456/143.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ESPN BRASIL
-http://rec2.distv.net:80/live/damaris/123456/144.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,ESPN EXTRA
-http://rec2.distv.net:80/damaris/123456/145
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,LookSport Plus
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport Plus
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,LookSport
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,LookSport 2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport 2
 https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,LookSport 3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , LookSport 3
 https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,FOOTBALL 1 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , FOOTBALL 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,FOOTBALL 2 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , FOOTBALL 2 HD
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,FOOTBALL 3 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , FOOTBALL 3 HD
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Football 1 Ukraine
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Football 1 Ukraine
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Football 2 Ukraine
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Sky Sports News HD
-http://stream.tvtap.live:8081/live/skysportsnews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Sky Sports ME
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Sky Sports Premier League HD
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Sky Sports Football HD
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Sky Sports F1 FHD
-http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Star Sport 1
-http://140.238.229.213/sp1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Star Sport 2
-http://140.238.229.213/sp2/index.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="Olah-raga" ,FOX SPORTS 1 AR
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Olah-raga" , FOX SPORTS 2 AR
-https://edge-live13-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
-#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="Olah-raga" ,ALB | K SPORT 1
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="Olah-raga" , ALB | K SPORT 2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="Olah-raga" , ALB | K SPORT 3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://dracarys.gjirafa.com/api/media/gjvideo/ytkx1t/retina.jpg" group-title="Olah-raga" , ALB | K SPORT 4
-http://93.157.62.180/KSport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,TVP Sport
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TVP Sport
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BEIN PREMIUM 1
-http://xcwsnl28.mrnova.online:80/live/60060_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BEIN PREMIUM 2
-http://xcwsnl28.mrnova.online:80/live/60061_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,BEIN PREMIUM 3
-http://dud.mawanroud.xyz/live/6151278887/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 1
-http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 2
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 3
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 5
-http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 6
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 7
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,Bein 8
-http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,SONY TEN 1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SONY TEN 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,SONY TEN 2
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SONY TEN 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,SONY TEN 3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SONY TEN 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Olah-raga" ,SONY SIX
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SONY SIX
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,BLOOMBERG
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Star Sport Select 1
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/448
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Star Sport Select 2
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/447
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TNT Sports 1
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TNT Sports 2
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TNT Sports 3
+http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TNT Sports 4
+http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TNT Sports 5
+http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , WWE
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , UFC 1
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Canal plus sport
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Eleven sport 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Eleven sport 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , BLOOMBERG
 http://210.210.155.35:80/dr9445/h/h03/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,CNA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CNA
 http://210.210.155.35:80/uq2663/h/h29/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,NHKWORLD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , NHKWORLD
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,ALJAZEERAWORLD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ALJAZEERAWORLD
 http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,TRTWORLD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TRTWORLD
 http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,WION
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , WION
 http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,UA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , UA
 http://210.210.155.35:80/uq2663/h/h101/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,ALJAZEERA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , ALJAZEERA
 http://210.210.155.35:80/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,CCTV4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,FRANCE24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , FRANCE24
 http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,TV5 MONDE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , TV5 MONDE
 http://210.210.155.35:80/dr9445/s/s24/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,DW
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , DW
 http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Berita" ,CGTN DOCUMENTARY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , CGTN DOCUMENTARY
 http://210.210.155.35:80/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Cek Toko Sebelah (2016)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Cek Toko Sebelah (2016)
 http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,My Stupid Bos (2016)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , My Stupid Bos (2016)
 http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Naga Bonar Jadi 2 (2007)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Naga Bonar Jadi 2 (2007)
 http://srv18.nf21.net/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Galih Dan Ratna (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Galih Dan Ratna (2017)
 http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Suatu Hari Nanti (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Suatu Hari Nanti (2017)
 http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Benyamin Biang Kerok (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Benyamin Biang Kerok (2018)
 http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Partikelir (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Partikelir (2018)
 http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,London Love Story 3 (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , London Love Story 3 (2018)
 http://srv19.nf21.net/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Flight 555 (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Flight 555 (2018)
 http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Insya Allah Sah 2 (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Insya Allah Sah 2 (2018)
 http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Bodyguard Ugal-Ugalan (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Bodyguard Ugal-Ugalan (2018)
 http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Ayat-Ayat Cinta 2 (2017)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Ayat-Ayat Cinta 2 (2017)
 http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Terbang: Menembus Langit (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Terbang: Menembus Langit (2018)
 http://srv28.nf21.net/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Hanum & Rangga: Faith & The City (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Hanum & Rangga: Faith & The City (2018)
 http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Rompis (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Rompis (2018)
 http://srv28.nf21.net/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Bajaj Bajuri: The Movie (2014)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Bajaj Bajuri: The Movie (2014)
 http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,Sepatu Dahlan (2014)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , Sepatu Dahlan (2014)
 http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,SESAT (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , SESAT (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959916
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" group-title="Film-filmnya" ,The Secret Suster Ngesot Urban Legend (2018)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OI9YMyJqKns/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWHTfJiQ0wcIWrtSuwT_C2hMkNvA" , The Secret Suster Ngesot Urban Legend (2018)
 http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="Indonesia" , Ruang Trampil _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" , Ruang Trampil _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="Indonesia" , Usee Photo _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" , Usee Photo _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e8265268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Indonesia" , UseePrime _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" , UseePrime _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" group-title="Indonesia" , TVRI _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png?v=2.0.0.13" , TVRI _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="Indonesia" , Antara _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" , Antara _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Indonesia" , Bali TV _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" , Bali TV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" group-title="Indonesia" , Berita Satu _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" , Berita Satu _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="Indonesia" , JakTV _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" , JakTV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b18268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" group-title="Indonesia" , JTV _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_big1.png?v=2.0.0.13" , JTV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Indonesia" , TV Edukasi _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" , TV Edukasi _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="Indonesia" , Daai TV _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" , Daai TV _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_insert_big1.png?v=2.0.0.13" group-title="Indonesia" , Insert _USEETV
-https://cdn11jtedge.useetv.com/dass/130/insert_dash/manifest_wuseetv.mpd?encp=ADcacuyG2x6XcAOdeTBvwA&uid=&expp=1633179036
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" , Nusantara TV _USEETV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f9268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" group-title="Indonesia" , My Kids _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_big.png" , My Kids _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="Indonesia" , Chinese Drama _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" , Chinese Drama _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="Indonesia" , CGTN Documentary _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" , CGTN Documentary _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_big.png" group-title="Indonesia" , Arirang _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_big.png" , Arirang _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13" group-title="Indonesia" , CCTV4 _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13" , CCTV4 _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13" group-title="Indonesia" , nhk world Japan _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13" , nhk world Japan _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="Indonesia" , Prambors _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" , Prambors _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1" group-title="Indonesia" , SEA Today _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1" , SEA Today _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="Indonesia" , IDX _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" , IDX _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="Indonesia" , DW (English) _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" , DW (English) _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" group-title="Indonesia" , France 24 _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" , France 24 _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png?coday" group-title="Indonesia" , TRT World _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png?coday" , TRT World _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="Indonesia" , Euronews _USEETV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" , Euronews _USEETV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="Indonesia" , MUI TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" , MUI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="Indonesia" , TV9 NU
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" , TV9 NU
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="Indonesia" , UChannel
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" , UChannel
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" group-title="Indonesia" , AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" , AlQuran Kareem
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="Indonesia" , Tawaf TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" , Tawaf TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="Indonesia" , MQTV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" , MQTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="Indonesia" , MTATV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" , MTATV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" group-title="Indonesia" , Muhammadiyah TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" , Muhammadiyah TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="Indonesia" , Rodja TV
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" , Rodja TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
-
-
-
-
